@@ -9,9 +9,6 @@ Some of my hobbies are:
 - Singing and learning new instruments
 - Playing a variety of games (lots of roguelikes and indies)
 
-Contact Me:
-- inouyedarren@gmail.com
-
 <!---
 chibiininja/chibiininja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
