@@ -1,4 +1,4 @@
-I see you've stumbled upon my GitHub page! ¯\_(ツ)_/¯ Hi, I’m @chibiininja
+I see you've stumbled upon my GitHub page! Hi, I’m @chibiininja
 
 I’m interested in learning new programming languages and technologies! 
 - Currently, I am knowledgable in Java, C, and a little bit of Python.
