@@ -1,7 +1,7 @@
 I see you've stumbled upon my GitHub page! Hi, I’m @chibiininja
 
 I’m interested in learning new programming languages and technologies! 
-- My main programming knowledge lies in Java and C.
+- My main programming knowledge lies in Java, C, and C++.
 - I’m currently learning some front-end languages and frameworks, such as HTML, CSS, JavaScript, and Vue.js.
 
 Some of my hobbies are:
