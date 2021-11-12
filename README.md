@@ -7,7 +7,7 @@ I’m interested in learning new programming languages and technologies!
 Some of my hobbies are:
 - Listen to music
 - Singing and learning new instruments
-- Playing a variety of games (lots of roguelikes and indies)
+- Playing a variety of games (roguelikes and indies are my favorite)
 
 <!---
 chibiininja/chibiininja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
